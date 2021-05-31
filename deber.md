@@ -4,7 +4,7 @@
 
 **2.-Marco téorico**
 
-**3.-Explicació**
+**3.-Explicación**
 
 **4.-Video**
 

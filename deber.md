@@ -22,6 +22,6 @@ Practicar los conocimientos adquiridos.
 
 **5.-Conclusiones**
 
-Los conceptos basicos adquiridos para comenzar a resolver los temas relacionados con circuitos son bastantes 
+Los conceptos basicos adquiridos para comenzar a resolver los temas relacionados con circuitos son
 
 **6.-Bibliografia**

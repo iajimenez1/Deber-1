@@ -2,12 +2,26 @@
 
 **1.-Objetivos**
 
+General
+
+Analizar los conceptos básicos de los circuitos eléctricos.
+
+Especificos
+
+Aplicar los conceptos basicos en ejercicios practicos.
+
+Practicar los conocimientos adquiridos.
+
 **2.-Marco téorico**
+
+
 
 **3.-Explicación**
 
 **4.-Video**
 
 **5.-Conclusiones**
+
+Los conceptos basicos adquiridos para comenzar a resolver los temas relacionados con circuitos son bastantes 
 
 **6.-Bibliografia**

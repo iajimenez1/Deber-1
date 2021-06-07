@@ -84,6 +84,8 @@ Practicar los conocimientos adquiridos.
 
 **4.-Video**
 
+https://www.youtube.com/watch?v=lihuAYjfEDo
+
 **5.-Conclusiones**
 
 Los conceptos basicos adquiridos para comenzar a resolver los temas relacionados con circuitos son

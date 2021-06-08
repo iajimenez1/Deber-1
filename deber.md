@@ -14,7 +14,13 @@ Practicar los conocimientos adquiridos.
 
 **2.-Marco téorico**
 
+![3 1](https://user-images.githubusercontent.com/75336529/121113087-0cb4be80-c7d7-11eb-89c4-36dedbe2eea1.jpeg)
 
+![4 1](https://user-images.githubusercontent.com/75336529/121116694-9024de80-c7dc-11eb-8d19-d0226f6508d7.PNG)
+
+![2 1](https://user-images.githubusercontent.com/75336529/121113100-11797280-c7d7-11eb-838c-72394644cc13.jpeg)
+
+![1 1](https://user-images.githubusercontent.com/75336529/121113091-0f171880-c7d7-11eb-9e7c-0a88b208cab8.png)
 
 **3.-Explicación**
 
@@ -82,12 +88,24 @@ Practicar los conocimientos adquiridos.
 
 ![31](https://user-images.githubusercontent.com/75336529/120902823-2358eb00-c608-11eb-9b5e-b22d45f9f16f.jpg)
 
+![32](https://user-images.githubusercontent.com/75336529/121112911-c65f5f80-c7d6-11eb-85cd-6cf9cb87a75a.jpg)
+
+![33](https://user-images.githubusercontent.com/75336529/121112904-c3fd0580-c7d6-11eb-93c0-d60ad6efb842.jpg)
+
 **4.-Video**
 
 https://www.youtube.com/watch?v=lihuAYjfEDo
 
 **5.-Conclusiones**
 
-Los conceptos basicos adquiridos para comenzar a resolver los temas relacionados con circuitos son
+•	Profundizamos el tema de transformaciones de unidades 
+
+•	Aprendimos a resolver ejercicios sobre cada tema tratado referente a circuitos eléctricos
+
+•	Analizamos como es de realizar una buena medición para obtener magnitudes eléctricas
+
+•	Aprendimos sobre la carga eléctrica, intensidad y voltaje.
+
+•	Reconocemos el tipo de circuito que nos presentan ya que podemos encontrarnos con uno serie, paralelo o mixto.
 
 **6.-Bibliografia**
